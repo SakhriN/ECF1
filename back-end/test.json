@@ -1,0 +1,16 @@
+{
+  "test": [
+    {
+      "id": 1,
+      "titre": "suicide",
+      "contenu": "pas encore acheté la corde mais il y'a deja le balcon de préparé",
+      "etat": "en cours"
+    },
+    {
+      "id": 2,
+      "titre": "resurrection",
+      "contenu": "Pour cela, je dois attendre la mort causée par la corde magique",
+      "etat": "en attente"
+    }
+  ]
+}
